@@ -1,0 +1,4 @@
+$ git branch -v
+  bug-fix-revert bde435b Add PR verification output
+  bug-fix-typo   9c4c609 Fix typo in README
+* main           3ffcdcb Add merge branches output
